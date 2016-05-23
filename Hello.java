@@ -9,5 +9,7 @@ public class Hello {
         int b = 36;
         int mul = a * b;
         System.out.println("product of " + a + " and " + b + " is " + mul);
+        // blue
+
     }
 }
