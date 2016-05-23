@@ -3,7 +3,7 @@
  */
 public class Hello {
     public static void main(String args[]) {
-        System.out.println("Hello World");
+        System.out.println("Hello Java");
         int a = 15;
         int b = 36;
         int mul = a * b;
