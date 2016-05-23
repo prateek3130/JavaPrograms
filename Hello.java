@@ -3,6 +3,7 @@
  */
 public class Hello {
     public static void main(String args[]) {
+        // Green
         System.out.println("Hello Java");
         int a = 15;
         int b = 36;
